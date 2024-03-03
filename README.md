@@ -1,5 +1,5 @@
 # ![AppIcon-83 5@2x~ipad](https://github.com/vishnuchandramc/react-native-FlickFind/assets/43258677/f6c984bd-6b70-4bf3-a499-2a053cc4ed3c)
-FlickFind - React Native Movie App
+# FlickFind - A React Native Movie App
 
 FlickFind is a React Native application that allows users to search for movies and view details using the OMDB API. It provides a user-friendly interface for exploring and discovering information about various movies.
 
