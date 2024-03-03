@@ -1,79 +1,25 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# ![AppIcon-83 5@2x~ipad](https://github.com/vishnuchandramc/react-native-FlickFind/assets/43258677/f6c984bd-6b70-4bf3-a499-2a053cc4ed3c)
+FlickFind - React Native Movie App
 
-# Getting Started
+FlickFind is a React Native application that allows users to search for movies and view details using the OMDB API. It provides a user-friendly interface for exploring and discovering information about various movies.
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+## Features
 
-## Step 1: Start the Metro Server
+- **Search Movies:** Easily search for movies using the OMDB API by entering keywords.
+- **View Movie Details:** Get detailed information about a selected movie, including title, plot, cast, and ratings.
+- **Dark and Light Themes:** The app supports both dark and light themes based on the device theme, providing a visually appealing experience.
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+## Screenshots
 
-To start Metro, run the following command from the _root_ of your React Native project:
+**Dark Theme
+![Screenshot_20240303-153109](https://github.com/vishnuchandramc/react-native-FlickFind/assets/43258677/c0f3159c-cd67-45af-95bf-877173d3870c)
+![Screenshot_20240303-153141](https://github.com/vishnuchandramc/react-native-FlickFind/assets/43258677/2b281104-2de8-4ebc-9de5-7cea12f09c0f)
 
-```bash
-# using npm
-npm start
+**Light Theme
+![Screenshot_20240303-153125](https://github.com/vishnuchandramc/react-native-FlickFind/assets/43258677/13c1224d-daa6-4294-93ab-e694e3561df4)
+![Screenshot_20240303-153157](https://github.com/vishnuchandramc/react-native-FlickFind/assets/43258677/3bce954e-3109-4f31-b6a6-c7884410163e)
 
-# OR using Yarn
-yarn start
-```
+## Dark and Light Themes
 
-## Step 2: Start your Application
+FlickFind offers a dynamic theme experience with both dark and light themes. The theme is automatically adjusted based on the device's theme settings.
 
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
-
-### For Android
-
-```bash
-# using npm
-npm run android
-
-# OR using Yarn
-yarn android
-```
-
-### For iOS
-
-```bash
-# using npm
-npm run ios
-
-# OR using Yarn
-yarn ios
-```
-
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
-
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
-
-## Step 3: Modifying your App
-
-Now that you have successfully run the app, let's modify it.
-
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
-
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
