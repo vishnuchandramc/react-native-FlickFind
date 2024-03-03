@@ -11,6 +11,8 @@ FlickFind is a React Native application that allows users to search for movies a
 - **View Movie Details:** Get detailed information about a selected movie, including title, plot, cast, and ratings.
 - **Dark and Light Themes:** The app supports both dark and light themes based on the device theme, providing a visually appealing experience.
 
+## Supported on both Android and iOS platforms
+
 ## Screenshots
 
 ### Dark Theme
