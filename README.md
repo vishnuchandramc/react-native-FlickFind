@@ -12,12 +12,12 @@ FlickFind is a React Native application that allows users to search for movies a
 ## Screenshots
 
 **Dark Theme
-![Screenshot_20240303-153109](https://github.com/vishnuchandramc/react-native-FlickFind/assets/43258677/c0f3159c-cd67-45af-95bf-877173d3870c)
-![Screenshot_20240303-153141](https://github.com/vishnuchandramc/react-native-FlickFind/assets/43258677/2b281104-2de8-4ebc-9de5-7cea12f09c0f)
+![Screenshot_20240303-153109@3x](https://github.com/vishnuchandramc/react-native-FlickFind/assets/43258677/3503f9d9-8450-4598-ab02-04f948bcf961)
+![Screenshot_20240303-153141@3x](https://github.com/vishnuchandramc/react-native-FlickFind/assets/43258677/ae1dcc70-1f82-47cc-bf14-2884a746e77b)
 
 **Light Theme
-![Screenshot_20240303-153125](https://github.com/vishnuchandramc/react-native-FlickFind/assets/43258677/13c1224d-daa6-4294-93ab-e694e3561df4)
-![Screenshot_20240303-153157](https://github.com/vishnuchandramc/react-native-FlickFind/assets/43258677/3bce954e-3109-4f31-b6a6-c7884410163e)
+![Screenshot_20240303-153125@3x](https://github.com/vishnuchandramc/react-native-FlickFind/assets/43258677/5a3ecc7e-2310-447f-be6f-541fbf57852d)
+![Uploading Screenshot_20240303-153157@3x.jpg…]()
 
 ## Dark and Light Themes
 
